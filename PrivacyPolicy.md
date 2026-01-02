@@ -2,7 +2,7 @@
 
 **Last updated:** 2 Jan 2026
 
-**Developer:** Oleksii Yankovskyi
+**Developer:** Oleksii Yankovskyi (OllyForge)
 
 DoMate is a fully offline application and **does not collect, store, or share any personal information**.
 
